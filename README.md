@@ -2,6 +2,8 @@
 In This Project , It is a detect a real handwritten digits using python , OpenCV and tensorflow-keras.<br/>
 this is also working for real time and image based script.<br/>
 <br/>
+Accuracy : 97.3%</b>
+<br/>
 You can clone this project and run it.<br/>
 <br/>
 this project is also contain some image and video which you can run and check it.<br/>
